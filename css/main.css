@@ -5,12 +5,13 @@ img{width:100%;height:auto;}
 .vintage_content{font-family:"Courier",fixed,monospace;white-space:pre-wrap;text-shadow:0 0 3px;text-transform:uppercase;opacity:.95;background:transparent;width:100%;}
 #welcome_first,#welcome_first_mini{padding:1%;font-size:170%;background:rgba(181, 180, 177, 0.32);}
 #welcome_second{font-size:1.3em;padding:1%;position:relative;top:5%;display:inline-block;}
+#welcome_third{font-size:1.6em;padding:1%;position:relative;top:5%;}
 .fa-code{color:khaki;}
 .typed-cursor{font-weight:500;}
 .me{width:15%;height:20%;border:0px;border-radius:20%;display:inline;margin-bottom:3%;}
-.intro{background-image:url('../img/cricket.png');background-size:cover;font-family:monospace;}
-.who{background-image:url("../img/cover_min.png");background-size:cover;color:aliceblue;font-family:monospace;}
-.who a{color:#C26262;font-weight:600;}
+.intro{background-image:url('../img/back.jpg');background-size:cover;font-family:monospace;}
+.who{background-image:url("../img/cover2.jpg");background-size:cover;color:aliceblue;font-family:monospace;}
+.who a{color:#88CC88;font-weight:600;}
 .love{background:#D4DEDE;}
 .work{background:-webkit-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:-moz-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:-ms-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:-o-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:linear-gradient(90deg, #403B4A 10%, #727261 90%);text-align:center;}
 .contact{text-align:center;background:-webkit-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:-moz-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:-ms-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:-o-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);font-family:monospace;font-weight:300;}
@@ -79,7 +80,7 @@ nav nav-tabs li:active{color:black;}
 @media only screen and (max-width:935px){.intro{background-image:url('../img/me_cric.png');background-size:100% 50%;background-repeat:no-repeat;}
 body{background-image:url('../img/mini_cric.png');background-size:contain;}
 }
-#code_lang{color:#C9D627;}
+#code_lang{color:#88CC88;font-weight:170%; font-size: 140%;font-style: monospace; }
 .mini_proj_slide{position:relative;top:44%;text-align:center;left:0%;margin-left:15%;}
 .pro_container{width:100%;position:absolute !important;top:21% !important;left:6% !important;}
 .proj_detail{margin-top:6%;font-size:16px;color:darkgray;}
